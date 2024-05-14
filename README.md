@@ -1,6 +1,6 @@
 # Polluwatch
 ## Harnessing Technology for Air Quality
-Tip: Air Quality Monitoring Initiative
+Air Quality Monitoring Initiative
 ## Mission
 :star: Leveraging state-of-the-art sensors and real-time data analytics, the system will continuously track air pollution levels, identifying sources of pollution and assessing the impact on public health.
 
