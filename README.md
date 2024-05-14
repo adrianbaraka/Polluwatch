@@ -6,6 +6,7 @@
 Air Quality Monitoring Initiative project Repository
 
 <div>
-  <div style="background-image: url('./general_files/images/air_pollution_for_readme_1.jpg')">
+  <div>
+      <img src="./general_files/images/air_pollution_for_readme_1.jpg" />
   </div>
 </div>
